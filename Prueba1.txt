@@ -1,1 +1,3 @@
 en la consola de git cuando se abre la opcion "nano" los comando para salir o manejarse empiezan con la tecla "ctrl" por ejemplo para salir o sea volver a git es "ctrl" + X
+
+usar cd y ubicar carpeta para ubicar a la consola de git si se clona porque sino no tiene donde ejeuctar comandos
