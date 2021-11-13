@@ -1,0 +1,1 @@
+en la consola de git cuando se abre la opcion "nano" los comando para salir o manejarse empiezan con la tecla "ctrl" por ejemplo para salir o sea volver a git es "ctrl" + X
